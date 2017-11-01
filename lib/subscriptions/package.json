@@ -9,6 +9,7 @@
   "author": "Ernesto Rubio Fuentes",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.5.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
